@@ -2,7 +2,7 @@
 
 Download the Motherboard extension for Claude Desktop on Windows and macOS.
 
-**[Download Motherboard 0.15.7 (.mcpb)](https://github.com/tanner-le/motherboard-mcp-downloads/releases/download/v0.15.7/Motherboard-0.15.7.mcpb)** · [Release notes](https://github.com/tanner-le/motherboard-mcp-downloads/releases/tag/v0.15.7)
+**[Download Motherboard 0.15.7 (.mcpb)](https://github.com/tanner-le/motherboard-mcp-downloads/releases/download/v0.15.7/Motherboard-0.15.7.mcpb)** · [Release notes](https://github.com/tanner-le/motherboard-mcp-downloads/releases/tag/v0.15.7) · [Editor’s guide](EDITOR-GUIDE.md)
 
 ## Install
 
@@ -12,7 +12,7 @@ Download the Motherboard extension for Claude Desktop on Windows and macOS.
 
 ## Editor quickstart
 
-Use Motherboard to find a reference before you cut, study the choices in it, and get timestamped feedback on a rough export.
+Use Motherboard to find a reference before you cut, study the choices in it, and get timestamped feedback on a rough export. For more copy-and-paste prompts, including sound design and B-roll, open the [editor’s guide](EDITOR-GUIDE.md).
 
 | When | Ask Claude |
 | --- | --- |
